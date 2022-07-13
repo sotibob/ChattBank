@@ -1,0 +1,15 @@
+C:\Users\Sotonte Bob-manuel\source\repos\ChattBank\ChattBank\bin\Debug\ChattBank.exe.config
+C:\Users\Sotonte Bob-manuel\source\repos\ChattBank\ChattBank\bin\Debug\ChattBank.exe
+C:\Users\Sotonte Bob-manuel\source\repos\ChattBank\ChattBank\bin\Debug\ChattBank.pdb
+C:\Users\Sotonte Bob-manuel\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.csprojAssemblyReference.cache
+C:\Users\Sotonte Bob-manuel\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.Admin.resources
+C:\Users\Sotonte Bob-manuel\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.CustomerInfo.resources
+C:\Users\Sotonte Bob-manuel\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.Form1.resources
+C:\Users\Sotonte Bob-manuel\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.Properties.Resources.resources
+C:\Users\Sotonte Bob-manuel\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.csproj.GenerateResource.cache
+C:\Users\Sotonte Bob-manuel\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.csproj.CoreCompileInputs.cache
+C:\Users\Sotonte Bob-manuel\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.exe
+C:\Users\Sotonte Bob-manuel\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.pdb
+C:\Users\Sotonte Bob-manuel\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.DisplayAccounts.resources
+C:\Users\Sotonte Bob-manuel\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.Transaction.resources
+C:\Users\Sotonte Bob-manuel\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.NewAccount.resources
